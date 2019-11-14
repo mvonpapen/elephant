@@ -215,8 +215,8 @@ def cross_correlation_function(signal, ch_pairs, env=False, nlags=None):
 
     References
     ----------
-    .. [1] Hall & River (2009) "Spectral Analysis of Signals, Spectral Element
-       Method in Structural Dynamics", Eq. 2.2.3
+    .. [1] Stoica, P., & Moses, R. (2005). Spectral Analysis of Signals. 
+    Prentice Hall. Retrieved from http://user.it.uu.se/~ps/SAS-new.pdf, Eq. 2.2.3
     """
 
     # Make ch_pairs a 2D array
